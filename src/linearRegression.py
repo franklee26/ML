@@ -1,6 +1,6 @@
 # linear regression
 import matplotlib
-import matplotlib.pyplogst as plt
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
